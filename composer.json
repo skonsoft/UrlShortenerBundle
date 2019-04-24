@@ -1,5 +1,5 @@
 {
-    "name": "mremi/url-shortener-bundle",
+    "name": "skonsoft/url-shortener-bundle",
     "type": "symfony-bundle",
     "description": "Implementation of UrlShortener library for Symfony2/Symfony3",
     "keywords": ["Symfony2", "Symfony3", "url", "shortener", "api"],
